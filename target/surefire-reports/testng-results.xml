@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="284247" started-at="2019-01-30T13:48:54Z" finished-at="2019-01-30T13:53:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="284247" started-at="2019-01-30T13:48:54Z" finished-at="2019-01-30T13:53:39Z">
+      <class name="com.exampleActiTime.testCase.ActiTimeInfo">
+        <test-method status="PASS" signature="testActiTimeInfo()[pri:0, instance:com.exampleActiTime.testCase.ActiTimeInfo@13fee20c]" name="testActiTimeInfo" duration-ms="78071" started-at="2019-01-30T13:48:54Z" finished-at="2019-01-30T13:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeInfo -->
+      </class> <!-- com.exampleActiTime.testCase.ActiTimeInfo -->
+      <class name="com.exampleActiTime.testCase.Verify_ErrorMessage">
+        <test-method status="PASS" signature="testErrorMessage()[pri:0, instance:com.exampleActiTime.testCase.Verify_ErrorMessage@735f7ae5]" name="testErrorMessage" duration-ms="86938" started-at="2019-01-30T13:52:12Z" finished-at="2019-01-30T13:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testErrorMessage -->
+      </class> <!-- com.exampleActiTime.testCase.Verify_ErrorMessage -->
+      <class name="com.exampleActiTime.testCase.Create_New_BillingType">
+        <test-method status="PASS" signature="testNewBillingType()[pri:0, instance:com.exampleActiTime.testCase.Create_New_BillingType@17550481]" name="testNewBillingType" duration-ms="119201" started-at="2019-01-30T13:50:13Z" finished-at="2019-01-30T13:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewBillingType -->
+      </class> <!-- com.exampleActiTime.testCase.Create_New_BillingType -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

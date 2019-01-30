@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <packages>
+   <package name="com.exampleActiTime.testCase">
+   </package>
+   </packages>
+    <!-- <classes>
+      <class name="com.exampleActiTime.testCase.Create_New_BillingType"/>
+      <class name="com.exampleActiTime.testCase.ActiTimeInfo"/>
+      <class name="com.exampleActiTime.testCase.Verify_ErrorMessage"/>
+    </classes> -->
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
